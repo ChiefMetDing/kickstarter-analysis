@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Data analytics boot camp Module 1 Challenge
 ## Project Overview
-Louise wants to create a play (fever) in theater in the US and estimates this will cost $12,000. The data analysis is to help Louise plan a fund rising campaign (the PROJECT).  The data used in this analysis is from Kickstarter, which is a crowdfunding platform. Scopes are, how campaigns fared in relation to: 
+Louise wants to create a play (*fever*) in theater in the US and estimates this will cost $12,000. The data analysis is to help Louise plan a fund rising campaign (the PROJECT).  The data used in this analysis is from Kickstarter, which is a crowdfunding platform. Scopes are, how campaigns fared in relation to: 
 1, their launch dates. 
 2, their funding goals.
 ## Analysis and Challenges
