@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Data analytics boot camp M1
+Data analytics boot camp Module 1 Challenge
 ## Project Overview
 The data analysis on the data set shows that theater projects have higher chances to be successful in April, May, and June. More detailed analysis shows that for projects focus on plays in the theater category tend to be successful when have lower goals.
 ## Analysis and Challenges
