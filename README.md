@@ -2,8 +2,8 @@
 Data analytics boot camp Module 1 Challenge
 ## Project Overview
 Louise wants to create a play (*fever*) in theater in the US and estimates this will cost $12,000. The data analysis is to help Louise plan a fund rising campaign (the PROJECT).  The data used in this analysis is from Kickstarter, which is a crowdfunding platform. Scopes are, how campaigns fared in relation to: 
-- their launch dates. 
-- their funding goals.
+1. their launch dates. 
+2. their funding goals.
 ## Analysis and Challenges
 The data analysis on the data set shows that theater projects have higher chances to be successful in April, May, and June. More detailed analysis shows that for campaigns focus on plays in the theater category tend to be successful when they have lower goals.
 ### Outcomes Based on Launch Date
