@@ -24,7 +24,7 @@ Rates of being successful have a clear declining trend from lower goals to highe
 ## Summary
 The outcomes of theater/plays campaigns in the past suggest launching the PROJECT in April, May, or June, with launching in May being the best option. If the PROJECT has unavoidable challenges of being launched in these months, Louise should try to avoid launching the project in October, December, and January.
 
-The incentive of the PROJECT should be as low as possible. To have a higher than 50% chance of being successful, the goal can be set to be lower than $20,000. The $12,000 estimate falls into this range. But to have a better chance of being successfully funded, the goal should be lowered as much as possible.
+The incentive of the PROJECT should be as low as possible. To have a higher than 50% chance of being successful, the goal can be set to be lower than $20,000. The $12,000 estimate given by Louise falls into this range. But to have a better chance of being successfully funded, the goal should be lowered as much as possible.
 
 The data set used in this analysis only contains information from 2009 to 2017. If the project is scheduled to be launched in 2021, obtain and analyze data from 2020 is strongly recommended. Because market behavior may be different during COVID-19 pandemic.
 
